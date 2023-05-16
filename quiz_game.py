@@ -9,11 +9,6 @@ Original file is located at
 
 print("Welcome to my Valorant Quiz!!!")
 
-playing = input("Do you want to start the quiz? ")
-
-if playing.lower() != 'yes':
-  quit()
-
 print("Let's start with the first question:")
 score=0
 
